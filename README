@@ -1,0 +1,9 @@
+To use this:
+
+1. Install Bakery (pip install bakery-build), and make sure you have
+   unrar, unzip, and flips installed.
+2. Put your personal owned ROM in the filename at `BASE_ROM` in `Bakefile.py`.
+3. Put any ZIP or RAR archived patches or patch sets in `archive`.
+4. Put any loose IPS or BPS patch files in `patches`.
+5. Run `bake` and make your patched files~!
+
